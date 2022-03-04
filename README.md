@@ -24,4 +24,6 @@ on this dick,
 
 that is so thic, 
 
-like a branch not a stick,
+like a branch,
+
+not a stick,
