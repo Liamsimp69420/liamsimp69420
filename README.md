@@ -10,6 +10,6 @@ large and in my face,
 
 i hope my history can erase,
 
-like the milky way, 
+like the milkyway, 
 
 cream in outer space,
