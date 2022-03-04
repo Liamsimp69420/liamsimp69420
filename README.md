@@ -8,7 +8,7 @@ oh i enjoy dick,
 
 large and in my face,   
 
-i hope my history can erase,
+i hope my search history can erase,
 
 like the milkyway, 
 
