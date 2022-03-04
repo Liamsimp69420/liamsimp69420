@@ -12,4 +12,4 @@ i hope my history can erase,
 
 it's like the milky way, 
 
-outer space,
+cream in outer space,
