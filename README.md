@@ -1,32 +1,32 @@
 <h1> My poem </h1> 
 <p> in all its glory </p> 
 
-<p>i enjoy dick, 
+<p>i enjoy dick,<br> 
 
-large and thicccccccc, 
+large and thicccccccc, <br>
 
-slipery and slick, 
+slipery and slick, <br>
 
-oh i enjoy dick, 
+oh i enjoy dick, <br>
 
-large and in my face,   
+large and in my face, <br>  
 
-i hope my search history can erase,
+i hope my search history can erase,<br>
 
-like the milkyway, 
+like the milkyway, <br>
 
-cream in outer space,
+cream in outer space,<br>
 
-oh i enjoy dick, 
+oh i enjoy dick, <br>
 
-rough and raw, 
+rough and raw,<br> 
 
-i like to gnaw, 
+i like to gnaw,<br> 
 
-on this dick, 
+on this dick, <br>
 
-that is so thic, 
+that is so thic, <br>
 
-like a branch,
+like a branch,<br>
 
 not a stick,</p> 
