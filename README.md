@@ -33,4 +33,4 @@ not a stick,</p>
 
 <h2> About Me </h2> <br>
 
-<p> My name is <strong>"liamsimp69420"</strong>, and I am learning <strong> Html </strong> and <strong>Css</strong>. I am really good at <strong>Hammer World Editor</strong> and some of my creations for <strong>CSGO</strong> include <strong> De_Industrive </strong> and many others  
+<p> My name is <strong>"liamsimp69420"</strong>, and I am learning <strong> Html </strong> and <strong>Css</strong>. I am really good at <strong>Hammer World Editor</strong> and some of my creations for <strong>CSGO</strong> include <strong> De_Industrive </strong> and many others. If you want to contact me you can email me at <strong>william.severin3@outook.com</strong>    
