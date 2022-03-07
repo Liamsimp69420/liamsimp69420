@@ -1,4 +1,7 @@
-i enjoy dick, 
+<h1> My poem </h1> 
+<p> in all its glory </p> 
+
+<p>i enjoy dick, 
 
 large and thicccccccc, 
 
@@ -26,4 +29,4 @@ that is so thic,
 
 like a branch,
 
-not a stick,
+not a stick,</p> 
