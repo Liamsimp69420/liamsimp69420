@@ -1,6 +1,4 @@
-<title> My Website </title> 
 
-<style> <body> {backround-color: green}
 <h1> Welcome to liamsimp69420.github.io</h1> 
 <p> this is my peom, I spent a good 5 minutes on it so hopefully you enjoy it: </p> 
 
