@@ -40,3 +40,7 @@ not a stick,</p>
  
  <br>*terms and conditions may apply 
 
+<h4> Ur MOtHer </h4> <br>  
+ <p> Ur Mother is rly nice and you shouldn't take her for granted, she takes care of you and wants you to sucseed, so the next time you see your mother tell her 'thank you' and be nice to her.</p><br>
+ <h5> Asher Smasher 69 </h5>
+ <p> Asher is rly cool and he has large a large history of smashing things</p>
