@@ -39,4 +39,4 @@ not a stick,</p>
 <p> My <strong> Youtube channel </strong> is <strong> Ratbot_0 </strong> and my <strong> twitch.tv </strong> is <strong> Ratbot0 </strong> Pls follow for cookie*.<br>
  
  <br>*terms and conditions may apply 
- </body> 
+
