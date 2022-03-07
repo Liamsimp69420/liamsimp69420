@@ -1,3 +1,6 @@
+<title> My Website </title> 
+
+<style> <body> {backround-color: green}
 <h1> Welcome to liamsimp69420.github.io</h1> 
 <p> this is my peom, I spent a good 5 minutes on it so hopefully you enjoy it: </p> 
 
@@ -39,3 +42,4 @@ not a stick,</p>
 <p> My <strong> Youtube channel </strong> is <strong> Ratbot_0 </strong> and my <strong> twitch.tv </strong> is <strong> Ratbot0 </strong> Pls follow for cookie*.<br>
  
  <br>*terms and conditions may apply 
+ </body> 
