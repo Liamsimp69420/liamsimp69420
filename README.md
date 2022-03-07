@@ -36,4 +36,6 @@ not a stick,</p>
 <p> My name is <strong>"liamsimp69420"</strong>, and I am learning <strong> Html </strong> and <strong>Css</strong>. I am really good at <strong>Hammer World Editor</strong> and some of my creations for <strong>CSGO</strong> include <strong> De_Industrive </strong> and many others. If you want to contact me you can email me at <strong>william.severin3@outook.com</strong>    
  
 <h3> My Socials </h3> 
-<p> My <strong> Youtube channel </strong> is <strong> Ratbot_0 </strong> and my <strong> twitch.tv </strong> is <strong> Ratbot0 </strong>  
+<p> My <strong> Youtube channel </strong> is <strong> Ratbot_0 </strong> and my <strong> twitch.tv </strong> is <strong> Ratbot0 </strong> Pls follow for cookie*.
+ 
+ *terms and conditions may apply 
