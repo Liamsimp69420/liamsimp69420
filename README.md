@@ -57,3 +57,5 @@ not a stick,</p>
 
 <h1> Not Knowin' Owen </h1> 
 <p> Owen kinda stupid lmao so thats y he get section on my website lmao. </p>
+<h1> My friend matt </h1> 
+<p> MAtt is rly cool and giga chad even tho he only like 4'11 but still. but basicly he has a hat that's rly cool with something in between a beaver and a bear on it, owen rly wants it cause he wants to put it on a clock or something. lmao im bad at making websites. I need to find new employment rn.</p>
