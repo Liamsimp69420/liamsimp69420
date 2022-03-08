@@ -54,3 +54,6 @@ not a stick,</p>
  
  <h1> xX_Phallic Malek_Xx </h1> 
 <p> Phallic Malek is also kinda cool but he no pay me for dis section so dislike his vids until he give me at least 5 doge pls</p>
+
+<h1> Not Knowin' Owen </h1> 
+<p> Owen kinda stupid lmao so thats y he get section on my website lmao. </p>
