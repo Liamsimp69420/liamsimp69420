@@ -43,4 +43,6 @@ not a stick,</p>
 <h1> Ur MOtHer </h1> <br>  
  <p> Ur Mother is rly nice and you shouldn't take her for granted, she takes care of you and wants you to succeed, so the next time you see your mother tell her 'thank you' and be nice to her.</p><br>
  <h1> <strong> Asher Smasher 69 </strong></h1>
- <p> Asher is rly cool and he has large a large history of smashing things</p>
+ <p> Asher is rly cool and he has large a large history of smashing things*</p><br><br>
+ <p>see Ur MOtHer*
+
