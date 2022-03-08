@@ -46,3 +46,6 @@ not a stick,</p>
  <p> Asher is rly cool and he has large a large history of smashing things*</p><br><br>
  <p>see Ur MOtHer*
 
+<h1> Carter Farter 420 </h1> 
+
+<p> Carter is also kinda cool and he deserves a follow, if you haven't followed him yet go do it, he rly nice lmao lol 69 funny number. lmao lol </p>
