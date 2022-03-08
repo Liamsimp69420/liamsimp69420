@@ -58,7 +58,7 @@ not a stick,</p>
 <h1> Not Knowin' Owen </h1> 
 <p> Owen kinda stupid lmao so thats y he get section on my website lmao. </p>
 <h1> My friend matt </h1> 
-<p> MAtt is rly cool and giga chad even tho he only like 4'11 but still. but basicly he has a hat that's rly cool with something in between a beaver and a bear on it, owen rly wants it cause he wants to put it on a clock or something. lmao im bad at making websites. I need to find new employment rn.</p> <img src=https://images.squarespace-cdn.com/content/v1/61651eb85509fc5136011ca1/6ad06707-baf2-4ad8-b25e-66f841b54d4f/Bucky_Badger.jpg alt="sus beaver bear" height="209">
+<p> MAtt is rly cool and giga chad even tho he only like 4'11 but still. but basicly he has a hat that's rly cool with something in between a beaver and a bear on it, owen rly wants it cause he wants to put it on a clock or something. lmao im bad at making websites. I need to find new employment rn.</p> <img src="https://rosebowl.wisc.edu/content/uploads/2019/12/bucky-pushups-1600x660-c-default.jpg" height="209">
 <p> Sus Beaver bear.png </p>
 <h1> Owenism </h1>
 <p>Owenism is a term coined by OWen and it means "to be an owen". Both "OWenism" and "to be an owen" are insults since owen said that they are insults. so when you see an Owen feel free to use terms like "b- student" and "only somewhat annoying" since these are complements to most owens.* <br><br>
