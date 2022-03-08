@@ -48,4 +48,7 @@ not a stick,</p>
 
 <h1> Carter Farter 420 </h1> 
 
-<p> Carter is also kinda cool and he deserves a follow, if you haven't followed him yet go do it, he rly nice lmao lol 69 funny number. lmao lol </p>
+<p> Carter is also kinda cool and he deserves a follow, if you haven't followed him yet go do it, he rly nice lmao lol 69 funny number. lmao lol </p><br><br>
+<h1> My merch</h1>
+ <p> you can buy my merch at Asher's white van pls go there he rly nice and is only involved in three missing person cases</p>
+
