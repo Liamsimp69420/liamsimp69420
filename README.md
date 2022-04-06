@@ -31,9 +31,9 @@ like a branch,<br><br>
 
 not a stick,</p> 
 
-<h1> About Me </h1> <br>
+<h1> About Me </h1> <br><div>
 
-<p> My name is <strong>"liamsimp69420"</strong>, and I am learning <strong> Html </strong> and <strong>CSS</strong>. I am really good at <strong>Hammer World Editor</strong> and some of my creations for <strong>CS:GO</strong> include <strong> De_Industrive </strong> and many others. If you want to contact me you can email me at <strong>william.severin3@outook.com</strong>. I speak fluent Danish and I am a dirty socialist. I graduated college at age 11 but was kicked out for being a dirty socialist. I am now attending dirty socialist high school in Sweden. I am also a sucsessfull doge investor but I sold out when they were at $0.0017      
+<p> My name is <strong>"liamsimp69420"</strong>, and I am learning <strong> Html </strong> and <strong>CSS</strong>. If you want to contact me you can email me at <strong>william.severin3@outook.com</strong>. I speak fluent Danish and I am a dirty socialist. I graduated college at age 11 but was kicked out for being a dirty socialist. I am now attending dirty socialist high school in Sweden. I am also a sucsessfull doge investor but I sold out when they were at $0.0017      
  
 <h1> My Socials </h1> 
 <p> My <strong> Youtube channel </strong> is <strong> Ratbot_0 </strong> and my <strong> twitch.tv </strong> is <strong> Ratbot0 </strong> Pls follow for cookie*.<br>
@@ -43,7 +43,7 @@ not a stick,</p>
 <h1> Ur MOtHer </h1> <br>  
  <p> Ur Mother is rly nice and you shouldn't take her for granted, she takes care of you and wants you to succeed, so the next time you see your mother tell her 'thank you' and be nice to her.</p><br>
  <h1> <strong> Asher Smasher 69 </strong></h1>
- <p> Asher is rly cool and he has large a large history of smashing things*</p><br><br>
+ <p> Asher is rly cool and he has large a large history of smashing things*</p><br><br><div>
  <p>see Ur MOtHer*
 
 <h1> Carter Farter 420 </h1> 
@@ -53,7 +53,7 @@ not a stick,</p>
  <p> You can buy my merch at Asher's white van pls go there he rly nice and is only involved in three missing person cases... so far...</p>
  
  <h1> xX_Phallic Malek_Xx </h1> 
-<p> Phallic Malek is also kinda cool but he no pay me for dis section so dislike his vids until he give me at least 5 doge pls</p>
+<p> Phallic Malek is also kinda cool but he no pay me for dis section so dislike his vids until he give me at least 5 doge pls</p><div>
 
 <h1> Not Knowin' Owen </h1> 
 <p> Owen kinda stupid lmao so thats y he get section on my website lmao. </p>
