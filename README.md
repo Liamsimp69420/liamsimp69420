@@ -31,7 +31,7 @@ like a branch,<br><br>
 
 not a stick,</p> 
 
-<h1> About Me </h1> <br><div>
+<h1> About Me </h1> <br>
 
 <p> My name is <strong>"liamsimp69420"</strong>, and I am learning <strong> Html </strong> and <strong>CSS</strong>. If you want to contact me you can email me at <strong>william.severin3@outook.com</strong>. I speak fluent Danish and I am a dirty socialist. I graduated college at age 11 but was kicked out for being a dirty socialist. I am now attending dirty socialist high school in Sweden. I am also a sucsessfull doge investor but I sold out when they were at $0.0017      
  
