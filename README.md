@@ -67,7 +67,7 @@ not a stick,</p>
 <p> Wren is a beta male trying to fit in, he is a 4'7" hot blonde who might not acctually have hair. this cannot be confirmed but I think he's kinda cool. But anyways he and Asher have known each other since Asher's mom and Wren's mom have known each other
  <h1> Lemmy the Lemminator</h1> <p>I am Liam's simp so I have to add sextion for him hopefully he large enjoys this cause i large enjoy stupid large. I call him "lemmy the lemminator" cause he lemminates on stuff.</p> 
  <h1> CBT Michael </h1>
- <p> Michael is an avid cock and ball torture enjoyer. He is a receiver and giver of this treatment. He has even given My Friend Matt cock and ball torture and is highly recommended amoung his peers. </p><br><br>
+ <p> Michael is an avid cock and ball torture enjoyer. He is a receiver and giver of this treatment. He has even given My Friend Matt cock and ball torture and is highly recommended amoung his peers. </p><br><p>hAHAHAHAHA i said amoung. large sus HAAHAHHA lmao HaahhaHahhah. </p><br>
  <h1>Mr. Asskissin</h1>
  <p>Mr. Asskissin is one of the worst teachers. He does nothing other than suck up to the teachers. He loves rules more than simping which is kinda impressive since that's McDonalds levels of lovin it. Obviously the job test was made by someone who doesn't know what it takes to be a teacher since Mr. A hates children. He should quit cause litterally all of the mean teachers combined look like Jesus compared to him. </p> 
 <h1> Bodhi's life </h1>
