@@ -54,17 +54,19 @@ not a stick,</p>
  
  <h1> xX_Phallic Malek_Xx </h1> 
 <p> Phallic Malek is also kinda cool but he no pay me for dis section so dislike his vids until he give me at least 5 doge pls</p><div>
+ <h1> Carter's ego booster</h1>
+ <p> This is for carter's egirl. Carter is large looking ggood and sya he large sexy lmao he say that he large ego mean he smart lmao. but little did he know his egirl is larger that his ego. But he no pronounce ego like egirl so i call it egirl. lmao thanks for making it to the end of this video pls lev like and subscrib lmao. </p>
 
 <h1> Not Knowin' Owen </h1> 
 <p> Owen kinda stupid lmao so thats y he get section on my website lmao. </p>
-<h1> My friend matt </h1> 
+<h1> My friend matt🤌 </h1> 
 <p> MAtt is rly cool and giga chad even tho he only like 4'11 but still. but basicly he has a hat that's rly cool with something in between a beaver and a bear on it, owen rly wants it cause he wants to put it on a clock or something. lmao im bad at making websites. I need to find new employment rn.</p> <img src="https://rosebowl.wisc.edu/content/uploads/2019/12/bucky-pushups-1600x660-c-default.jpg" height="209">
 <p> Sus Beaver bear.png </p>
 <h1> Owenism </h1>
 <p>Owenism is a term coined by OWen and it means "to be an owen". Both "OWenism" and "to be an owen" are insults since owen said that they are insults. so when you see an Owen feel free to use terms like "b- student" and "only somewhat annoying" since these are complements to most owens.* <br><br>
 *owen is my friend and i am only joking, saying things like "b- student" is pretty mean and insulting so pls be kind. no matter wat someone is named. even if it's "owen".</p> 
 <h1> Wren </h1>
-<p> Wren is a beta male trying to fit in, he is a 4'7" hot blonde who might not acctually have hair. this cannot be confirmed but I think he's kinda cool. But anyways he and Asher have known each other since Asher's mom and Wren's mom have known each other
+<p> Wren is a beta male trying to fit in, he is a 4'7" hot blonde who might not acctually have hair. this cannot be confirmed but I think he's kinda cool. But anyways he and Asher have known each other since Asher's mom and Wren's mom have known each other. 🤌🥰😘😍
  <h1> Lemmy the Lemminator</h1> <p>I am Liam's simp so I have to add sextion for him hopefully he large enjoys this cause i large enjoy stupid large. I call him "lemmy the lemminator" cause he lemminates on stuff.</p> 
  <h1> CBT Michael </h1>
  <p> Michael is an avid cock and ball torture enjoyer. He is a receiver and giver of this treatment. He has even given My Friend Matt cock and ball torture and is highly recommended amoung his peers. </p><br><p>hAHAHAHAHA i said amoung. large sus HAAHAHHA lmao HaahhaHahhah. </p><br>
