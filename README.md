@@ -106,7 +106,7 @@ not a stick,</p>
  
  <p> On spinnaker duty he drops the pole in,</p><br>
 
- <p>On the lightning he is quite frightening,</p><br>
+ <p>In the lightning he is quite frightening,</p><br>
  
  <p>Imposter on the boat and land</p><br> 
  
