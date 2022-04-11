@@ -100,7 +100,17 @@ not a stick,</p>
  
  <p> Michael would win soloing Ernie Cat,</p><br> 
  
- <p> clayton daddy fu
+ <p> He doesn't know how to tie a bowline, </p><br> 
+ 
+ <p> So you never know where his boat is,</p><br>
+ 
+ <p> I can give him one thing,</p><br>
+ 
+ <p> he saves my bacon every Wednsday and Sunday, </p><br>
+ 
+ <p> His rc skills are rly good, </p><br> 
+ 
+ <p> And if he wasn't there, to sink I would,</p> 
  
 
 <h1> Bodhi's life </h1>
