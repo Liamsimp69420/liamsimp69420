@@ -104,7 +104,17 @@ not a stick,</p>
  
  <p> So you never know where his boat is,</p><br>
  
- <p> I can give him one thing,</p><br>
+ <p> On spinnaker duty he drops the pole in,</p><br>
+
+ <p>On the lightning he is quite frightening,</p><br>
+ 
+ <p>Imposter on the boat and land</p><br> 
+ 
+ <p>When he has a sheet it slips his hand</p><br>
+ 
+ <p> He plays Amoung Us cause he's trollin'</p><br> 
+ 
+ <p> I can give him one thing though,</p><br>
  
  <p> he saves my bacon every Wednsday and Sunday, </p><br>
  
