@@ -86,7 +86,7 @@ not a stick,</p>
  
  <p> You will have to get last place,</p><br>
  
- <p>If you roast his face,</p><br>
+ <p>And if you roast his face,</p><br>
  
  <p> He will say "touch grass" with much grace,</p><br>
 
