@@ -70,6 +70,10 @@ not a stick,</p>
  <h1> Lemmy the Lemminator</h1> <p>I am Liam's simp so I have to add sextion for him hopefully he large enjoys this cause i large enjoy stupid large. I call him "lemmy the lemminator" cause he lemminates on stuff.</p> 
  <h1> CBT Michael </h1>
  <p> Michael is an avid cock and ball torture enjoyer. He is a receiver and giver of this treatment. He has even given My Friend Matt cock and ball torture and is highly recommended amoung his peers. </p><br><p>hAHAHAHAHA i said amoung. large sus HAAHAHHA lmao HaahhaHahhah. </p><br>
+ 
+ <h1>My 1st world problems</h1> 
+ <p> I love to complain, so this is where I will do it </p> <br><p>1. Why did apple get rid of the magnetic chargers for the mac? I understand the extra place for a mouse, the thinner base, the more efficent charger, etc. But the magnet was satisfying, and the mac needs it so that when I am bored I can see how far away I have to hold the magnet for it to latch on. </p> 
+ 
  <h1> Clayton</h1> 
  
  <p> This is a poem about Clayton's inabillity to sail</p> <br>
