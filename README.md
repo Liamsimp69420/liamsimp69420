@@ -33,7 +33,7 @@ not a stick,</p>
 
 <h1> About Me </h1> <br>
 
-<p> My name is <strong>"liamsimp69420"</strong>, and I am learning <strong> Html </strong> and <strong>CSS</strong>. If you want to contact me you can email me at <strong>william.severin3@outook.com</strong>. I speak fluent Danish and I am a dirty socialist. I graduated college at age 11 but was kicked out for being a dirty socialist. I am now attending dirty socialist high school in Sweden. I am also a sucsessfull doge investor but I sold out when they were at $0.0017      
+<p> My name is <strong>"liamsimp69420"</strong>, and I am learning <strong> Html </strong> and <strong>CSS</strong>. If you want to contact me you can email me at <strong>william.severin3@outook.com</strong>. I speak fluent Danish and I am a dirty socialist. I graduated college at age 11 but was kicked out for being a dirty socialist. I am now attending dirty socialist high school in Sweden. I am also a sucsessfull doge investor but I sold out when they were at $0.0017 </p> <img src="https://www.youtube.com/watch?v=GcVKq8GT_7M"/>
  
 <h1> My Socials </h1> 
 <p> My <strong> Youtube channel </strong> is <strong> Ratbot_0 </strong> and my <strong> twitch.tv </strong> is <strong> Ratbot0 </strong> Pls follow for cookie*.<br>
@@ -104,19 +104,11 @@ not a stick,</p>
  
  <p> Michael would win soloing Ernie Cat,</p><br> 
  
- <p> He doesn't know how to tie a bowline, </p><br> 
- 
- <p> So you never know where his boat is,</p><br>
- 
- <p> On spinnaker duty he drops the pole in,</p><br>
-
  <p>In the lightning he is quite frightening,</p><br>
- 
- <p>Imposter on the boat and land</p><br> 
  
  <p>When he has a sheet it slips his hand</p><br>
  
- <p> He plays Amoung Us cause he's trollin'</p><br> 
+ <p> Soon you'll find our boat on land</p> 
  
  <p> I can give him one thing though,</p><br>
  
