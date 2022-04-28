@@ -36,9 +36,9 @@ not a stick,</p>
 <p> My name is <strong>"liamsimp69420"</strong>, and I am learning <strong> Html </strong> and <strong>CSS</strong>. If you want to contact me you can email me at <strong>william.severin3@outook.com</strong>. I speak fluent Danish and I am a dirty socialist. I graduated college at age 11 but was kicked out for being a dirty socialist. I am now attending dirty socialist high school in Sweden. I am also a sucsessfull doge investor but I sold out when they were at $0.0017 </p> 
  
 <h1> My Socials </h1> 
-<p> My <strong> Youtube channel </strong> is <strong> Ratbot_0 </strong> and my <strong> twitch.tv </strong> is <strong> Ratbot0 </strong> Pls follow for cookie*.<br>
+<p> My <strong> Youtube channel </strong> is <strong> Ratbot_0 </strong> and my <strong> twitch.tv </strong> is <strong> Ratbot0 </strong> Pls follow for cookie*.<br> 
  
- <br>*terms and conditions may apply 
+ <br>*terms and conditions may apply</p><video src ="https://www.youtube.com/channel/UCsgji3te_hJpwZXy_cbO0Bg">
 
 <h1> Ur MOtHer </h1> <br>  
  <p> Ur Mother is rly nice and you shouldn't take her for granted, she takes care of you and wants you to succeed, so the next time you see your mother tell her 'thank you' and be nice to her.</p><br>
