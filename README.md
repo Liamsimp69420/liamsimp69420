@@ -1,5 +1,15 @@
 <h1> Thank you for voting for William!</h1> 
 <p>by voting for me you are ensuring a brighter future for the students of ELHS</p><br><br>
+<p>Here is the code for the py that got you here <br> from multiprocessing.connection import wait
+from webbrowser import open_new_tab
+
+
+vote = input('Who are you voting for? ') 
+if vote =='William' or vote =='william': open_new_tab('https://liamsimp69420.github.io/liamsimp69420/'), 
+elif vote =='Liam' or vote=='liam': open_new_tab('https://liamp.dev') 
+else: open_new_tab('https://www.youtube.com/watch?v=dQw4w9WgXcQ') 
+print('Thank you for voting for ' + vote) 
+</p>
 <p> this is my poem, I spent a good 5 minutes on it so hopefully you enjoy it: </p> 
 
 <p>i enjoy dick,<br><br>   
