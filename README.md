@@ -1,5 +1,5 @@
 <h1> Thank you for voting for William!</h1> 
-<p>by voting for me you are ensuring a brighter future for the students of ELHS</p>
+<p>by voting for me you are ensuring a brighter future for the students of ELHS</p><br><br>
 <p> this is my poem, I spent a good 5 minutes on it so hopefully you enjoy it: </p> 
 
 <p>i enjoy dick,<br><br>   
