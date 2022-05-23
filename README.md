@@ -1,7 +1,7 @@
 <h1> Thank you for voting for William!</h1> 
 <p>by voting for me you are ensuring a brighter future for the students of ELHS</p><br><br>
 <p>Here is the code for the py that got you here <br> from multiprocessing.connection import wait
-from webbrowser import open_new_tab
+from webbrowser import open_new_tab <br> 
 
 
 vote = input('Who are you voting for? ') <br>
