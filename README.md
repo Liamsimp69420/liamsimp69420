@@ -4,10 +4,10 @@
 from webbrowser import open_new_tab
 
 
-vote = input('Who are you voting for? ') 
-if vote =='William' or vote =='william': open_new_tab('https://liamsimp69420.github.io/liamsimp69420/'), 
-elif vote =='Liam' or vote=='liam': open_new_tab('https://liamp.dev') 
-else: open_new_tab('https://www.youtube.com/watch?v=dQw4w9WgXcQ') 
+vote = input('Who are you voting for? ') <br>
+if vote =='William' or vote =='william': open_new_tab('https://liamsimp69420.github.io/liamsimp69420/'), <br> 
+elif vote =='Liam' or vote=='liam': open_new_tab('https://liamp.dev') <br>
+else: open_new_tab('https://www.youtube.com/watch?v=dQw4w9WgXcQ') <br> 
 print('Thank you for voting for ' + vote) 
 </p>
 <p> this is my poem, I spent a good 5 minutes on it so hopefully you enjoy it: </p> 
