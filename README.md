@@ -63,7 +63,7 @@ open_new_tab('https://github.com/Liamsimp69420/liamsimp69420/blob/main/README.md
 <br> 
 <h3> A program that checks how many subscribers I have on youtube. </h3> <br>
 <h4> What's required? </h4> 
-<p> For this project you're going to need the requests module. You can install this by opening your terminal if you are on mac or command prompt if you are on windows, and typing ``` pip install requests ``` you might need to install different modules for different projects. But since I wanted to make a robot yell at me I decided it was easiest to use the ``` open_new_tab('') ``` module. You can get this by writing ``` pip install webbrowser ``` in your terminal/command prompt. To get these in you program you can write ```python from webbrowser import open_new_tab ``` and ```python import requests ``` </p>
+<p> For this project you're going to need the requests module. You can install this by opening your terminal if you are on mac or command prompt if you are on windows, and typing </p> ``` pip install requests ``` <p> you might need to install different modules for different projects. But since I wanted to make a robot yell at me I decided it was easiest to use the </p> ``` open_new_tab('') ``` <p> module. You can get this by writing </p> ``` pip install webbrowser ``` <p> in your terminal/command prompt. To get these in you program you can write </p> ```python from webbrowser import open_new_tab ``` <p> and </p>  ```python import requests ```  </p>
 <br> 
 
 ```python 
