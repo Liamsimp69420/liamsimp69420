@@ -1,4 +1,4 @@
-'''
+```
 
 from webbrowser import open_new_tab 
 import time 
@@ -52,4 +52,4 @@ print('Permission Granted!')
 print ()
 open_new_tab()
 
-'''
+```
