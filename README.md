@@ -63,4 +63,28 @@ open_new_tab('https://github.com/Liamsimp69420/liamsimp69420/blob/main/README.md
 <br> 
 <h3> A program that checks how many subscribers I have on youtube. </h3> <br>
 <h4> What's required? </h4> 
-<p> For this project you're going to need the requests module. You can install this by opening your terminal if you are on mac or command prompt if you are on windows and typing ``` pip install requests ``` you might need to install different modules for different projects. But since I wanted to make a robot yell at me I decided it was easiest to use the ``` open_new_tab('') ``` module. You can get this by writing ``` pip install webbrowser ``` in your terminal/command prompt. 
+<p> For this project you're going to need the requests module. You can install this by opening your terminal if you are on mac or command prompt if you are on windows, and typing ``` pip install requests ``` you might need to install different modules for different projects. But since I wanted to make a robot yell at me I decided it was easiest to use the ``` open_new_tab('') ``` module. You can get this by writing ``` pip install webbrowser ``` in your terminal/command prompt. To get these in you program you can write ```python from webbrowser import open_new_tab ``` and ```python import requests ``` </p>
+<br> 
+```python 
+
+import requests
+import time  
+from webbrowser import open_new_tab 
+Subscribers=0
+
+while True: 
+    r = requests.get('https://www.youtube.com/channel/UCsgji3te_hJpwZXy_cbO0Bg')
+    s = ((r.text).split('subscriberCountText')[1])
+    t = (s.split('subscribers"}},"simpleText"')[0])
+    Subcheck = Subscribers
+    Subscribers = (t.split('":{"accessibility":{"accessibilityData":{"label":"')[1])
+    s1 =int(Subscribers)
+    s2 =int(Subcheck)
+    print('Sub Count: ', Subscribers) 
+    if (s2 < s1): 
+        open_new_tab('https://docs.google.com/document/d/1XEuEUQB682Uo3aC2_Gx2Qs2Z0dCl_PuP8AygG6Z4I-w/edit') 
+    time.sleep(60) 
+    
+```
+    
+
