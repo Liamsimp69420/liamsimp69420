@@ -63,12 +63,12 @@ open_new_tab('https://github.com/Liamsimp69420/liamsimp69420/blob/main/README.md
 <br> 
 <h3> A program that checks how many subscribers I have on youtube. </h3> <br>
 <h4> What's required? </h4> 
-<p> For this project you're going to need the requests module. You can install this by opening your terminal if you are on mac or command prompt if you are on windows, and typing pip install requests you might need to install different modules for different projects. But since I wanted to make a robot yell at me I decided it was easiest to use the open_new_tab('') module. You can get this by writing pip install webbrowser  in your terminal/command prompt. To get these in you program you can write python from webbrowser import open_new_tab and python import requests </p> 
+<p> For this project you're going to need the requests module. You can install this by opening your terminal if you are on mac or command prompt if you are on windows, and typing "pip install requests" you might need to install different modules for different projects. But since I wanted to make a robot yell at me I decided it was easiest to use the "open_new_tab('')" module and just have it open a youtube video. You can get this by writing "pip install webbrowser"  in your terminal/command prompt. To get these in you program you can write "from webbrowser import open_new_tab" and "import requests"  in your python program. (the time module should be built into python and it isn't required for this program to work)</p> 
 <br> 
 
 ```python 
 
-import requests
+import requests 
 import time  
 from webbrowser import open_new_tab 
 Subscribers=0
