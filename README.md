@@ -71,7 +71,7 @@ open_new_tab('https://github.com/Liamsimp69420/liamsimp69420/blob/main/README.md
 <h4> What's required? </h4> 
 <p> For this project you're going to need the requests module. You can install this by opening your terminal if you are on mac or command prompt if you are on windows, and typing "pip install requests" you might need to install different modules for different projects. But since I wanted to make a robot yell at me I decided it was easiest to use the "open_new_tab('')" module and just have it open a youtube video. You can get this by writing "pip install webbrowser"  in your terminal/command prompt. To get these in you program you can write "from webbrowser import open_new_tab" and "import requests"  in your python program. (the time module should be built into python and it isn't required for this program to work)</p> 
 <br> 
-<h4> The actual code: </h4> 
+<details> <summary> The actual code: </summary>
 
 ```python 
 
@@ -99,6 +99,8 @@ while True:
 #the code automatically repeats every 60 seconds. 
     
 ```
+                 
+                 </details>
     
 <h4> Why did I make this?: </h4> 
 <p> I made this code/guide because when I wanted to do this there were no guides that didn't require an api/100's of python modules and lines of code. I making this so that hopefully someone who needs this can use it. </p>
