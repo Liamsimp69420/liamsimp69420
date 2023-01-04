@@ -100,7 +100,7 @@ while True:
     
 ```
                  
-                 </details>
+</details>
     
 <h4> Why did I make this?: </h4> 
 <p> I made this code/guide because when I wanted to do this there were no guides that didn't require an api/100's of python modules and lines of code. I making this so that hopefully someone who needs this can use it. </p>
