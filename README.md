@@ -75,9 +75,13 @@ from webbrowser import open_new_tab
 Subscribers=0
 
 while True: 
-    r = requests.get('https://www.youtube.com/channel/UCsgji3te_hJpwZXy_cbO0Bg')
+#the while loop makes the program run automatically 
+    r = requests.get('https://www.youtube.com/channel/UCsgji3te_hJpwZXy_cbO0Bg') 
+#requests.get pulls the html code from my youtube channel
     s = ((r.text).split('subscriberCountText')[1])
+#Here I am splitting the html just before it shows my subscriber count. 
     t = (s.split('subscribers"}},"simpleText"')[0])
+#and here I am splitting right after the subscriber count in the html. 
     Subcheck = Subscribers
     Subscribers = (t.split('":{"accessibility":{"accessibilityData":{"label":"')[1])
     s1 =int(Subscribers)
@@ -86,6 +90,7 @@ while True:
     if (s2 < s1): 
         open_new_tab('https://docs.google.com/document/d/1XEuEUQB682Uo3aC2_Gx2Qs2Z0dCl_PuP8AygG6Z4I-w/edit') 
     time.sleep(60) 
+#the code automatically repeats every 60 seconds. 
     
 ```
     
