@@ -1,5 +1,6 @@
 <h1> My exciting python adventrure ig 🐍</h1> <br> 
-<h3> Password checker code I guess: </h3> <br> 
+<h2> Password checker code I guess: </h2> <br> 
+<h4> Difficulty: ☆☆☆★★ Usefullness: ☆★★★★ </h4>
 <h4> What's required? </h4> 
 <p> to make this simple program you will need python, a code editor like Spyder or VSCODE and the time and webbrowser modules. I am pretty sure both of these modules are included with your python install but if the code isn't working open you terminal (mac) or command prompt on windows and write 'pip install webbrowser' and/or 'pip install time'. once you've done this you can change things like where the correct password and username will take you and stuff like that. (the time and webbrowser modules aren't required you just won't be able to have the code wait or open tabs) </p>  
 
