@@ -1,6 +1,6 @@
 <h1> My exciting python adventrure ig 🐍</h1> <br> 
 <h2> Password checker code I guess: </h2> <br> 
-<h4> Difficulty: ☆☆☆★★ Usefullness: ☆★★★★ </h4>
+<h4> Difficulty: ☆☆☆⭐️⭐️ Usefullness: ☆⭐️⭐️⭐️⭐️ </h4>
 <h4> What's required? </h4> 
 <p> to make this simple program you will need python, a code editor like Spyder or VSCODE and the time and webbrowser modules. I am pretty sure both of these modules are included with your python install but if the code isn't working open you terminal (mac) or command prompt on windows and write 'pip install webbrowser' and/or 'pip install time'. once you've done this you can change things like where the correct password and username will take you and stuff like that. (the time and webbrowser modules aren't required you just won't be able to have the code wait or open tabs) </p>  
 
@@ -63,7 +63,7 @@ open_new_tab('https://github.com/Liamsimp69420/liamsimp69420/blob/main/README.md
 <p> The simple answer is. I was bored. That also happens to be the complicated reason. idk why i'm writing this.</p> 
 <br> 
 <h2> A program that checks how many subscribers I have on youtube. </h2> <br>
-<h4> Difficulty: ☆☆★★★ Usefullness: ☆☆☆★★ </h4> 
+<h4> Difficulty: ☆☆⭐️⭐️⭐️ Usefullness: ☆☆☆⭐️⭐️ </h4> 
 <h4> What's required? </h4> 
 <p> For this project you're going to need the requests module. You can install this by opening your terminal if you are on mac or command prompt if you are on windows, and typing "pip install requests" you might need to install different modules for different projects. But since I wanted to make a robot yell at me I decided it was easiest to use the "open_new_tab('')" module and just have it open a youtube video. You can get this by writing "pip install webbrowser"  in your terminal/command prompt. To get these in you program you can write "from webbrowser import open_new_tab" and "import requests"  in your python program. (the time module should be built into python and it isn't required for this program to work)</p> 
 <br> 
