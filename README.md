@@ -59,7 +59,7 @@ print ()
 open_new_tab('https://github.com/Liamsimp69420/liamsimp69420/blob/main/README.md')
 
 ```
-<h4> Why did I make this? </h3> <br>
+<h4> Why did I make this?: </h3> <br>
 <p> The simple answer is. I was bored. That also happens to be the complicated reason. idk why i'm writing this.</p> 
 <br> 
 <h2> A program that checks how many subscribers I have on youtube. </h2> <br>
@@ -96,5 +96,5 @@ while True:
     
 ```
     
-<h4> Why did I make this? </h4> 
+<h4> Why did I make this?: </h4> 
 <p> I made this code/guide because when I wanted to do this there were no guides that didn't require an api/100's of python modules and lines of code. I making this so that hopefully someone who needs this can use it. </p>
